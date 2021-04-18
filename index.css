@@ -39,6 +39,11 @@ body {
     height: 100px;
 }
 
-.para {
+p {
     color: white;
+}
+
+#data {
+    justify-content: center;
+    padding-left: 550px;
 }
